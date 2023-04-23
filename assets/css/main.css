@@ -954,6 +954,7 @@ input, select, textarea {
 				line-height: 2.25rem;
 				text-align: center;
 				width: 2.25rem;
+				font-weight: 500;
 			}
 
 				ul.icons li a:hover {
